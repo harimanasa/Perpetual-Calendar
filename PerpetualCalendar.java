@@ -3,9 +3,9 @@ import java.time.temporal.*;
 public class PerpetualCalendar {
     enum Months {JAN, FEB, MAR, APR, MAY, JUNE, JULY, AUGUST, SEPTEMBER, OCTOBER, NOVEMBER, DECEMBER};
     static char[] cubeFacesShown;
-    static String[] CalendarDaySplit; //The valid input gives this array size of 2.
+    static String[] CalendarDaySplit; //The valid input gives this array size of 2. 
     public static void main(String... args) {
-        String calendarDay = "January 11";
+        String calendarDay = "January 11"; //Need to implement the input validation for various input scenarios.
         cubeFacesShown = new char[4];
         CalendarDaySplit = calendarDay.split(" "); /* The first two cubes are reserved for month */
         if(CalendarDaySplit.length==2){
