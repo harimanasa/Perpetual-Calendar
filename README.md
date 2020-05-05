@@ -5,8 +5,8 @@ Now, imagine that this started happened in the month of January and you forgot t
 
 Write a java program to implement this calendar using your 4 cubes?
 
-Rules: You must use the first two cubes to represent the month and the rest two to represent the days. 
-
+Rules: You must use the first two cubes to represent the month and the rest two to represent the days. <br/>
+Note: This is often asked in interviews (both OA & onsite).
 
 <br/> 
 <b> <p style="color:blue"> My answer: </p> </b> <br>
