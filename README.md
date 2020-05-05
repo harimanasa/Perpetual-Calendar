@@ -12,6 +12,6 @@ Rules: You must use the first two cubes to represent the month and the rest two 
 <b> <p style="color:blue"> My answer: </p> </b> <br>
 We can do this in the following way. For days, we first write all numbers from 0 to 9. And then we need one extra 1 and 2 numbers.
 Only extra care we need to take is to put 3 in a cube which does not have 0, so that we can show 30 as well successfully.
-<br>
-Below is the pictorial representation I drew for this solution.
-<img src="images/PerpetualCalendar.png"></img>
+<br> <br>
+Below is the pictorial representation I drew for this solution. <br>
+<img src="images/PerpetualCalendar.png" style="width:500px;height:600px;"></img>
